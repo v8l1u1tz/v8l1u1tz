@@ -1,7 +1,7 @@
 <div align="left">
     <a href="https://x.com/jlutrezehue"><img src="https://img.shields.io/badge/jlutrezehue-%23000000.svg?style=flat&logo=X&logoColor=white" alt="jlutrezehue's X link" /></a>
     <a href="https://www.leetcode.com/jacintolutrezehue"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="jacintolutrezehue's LeetCode link" /></a>
-    <a href="https://www.hackerrank.com/profile/nocturnalDev11"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="nocturnalDev11's Hackerrank link" /></a>
+    <a href="https://www.hackerrank.com/profile/lutrezehue"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="lutrezehue's Hackerrank link" /></a>
 </div>
 
 <div align="center">
