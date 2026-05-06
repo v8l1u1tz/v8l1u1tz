@@ -15,7 +15,7 @@
 
 ### Languages, Frameworks, Tools and IDE's
 
-***PS: I'm continuously learning my skills in various languages and tools, including design software and frameworks.***
+***PS: Some of these tools were learned out of necessity. Some out of curiosity. One out of spite.***
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
