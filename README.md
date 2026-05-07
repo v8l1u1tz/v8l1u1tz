@@ -87,7 +87,7 @@
 
 ### GitHub Stats 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v8l1u1tz&theme=synthwave" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v8l1u1tz&theme=synthwave" width="98.5%" height="auto" />
 </div>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v8l1u1tz&theme=synthwave" width="49%" height="auto" style="display: inline;" />
