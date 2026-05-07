@@ -1,5 +1,4 @@
 <div align="left">
-    <a href="https://x.com/jlutrezehue"><img src="https://img.shields.io/badge/jlutrezehue-%23000000.svg?style=flat&logo=X&logoColor=white" alt="jlutrezehue's X link" /></a>
     <a href="https://www.leetcode.com/jacintolutrezehue"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="jacintolutrezehue's LeetCode link" /></a>
     <a href="https://www.hackerrank.com/profile/lutrezehue"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="lutrezehue's Hackerrank link" /></a>
 </div>
@@ -88,15 +87,15 @@
 
 ### GitHub Stats 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v8l1u1tz&theme=tokyonight" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v8l1u1tz&theme=synthwave" width="100%" height="auto" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v8l1u1tz&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v8l1u1tz&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v8l1u1tz&theme=synthwave" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v8l1u1tz&theme=synthwave" width="49%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v8l1u1tz&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v8l1u1tz&theme=tokyonight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v8l1u1tz&theme=synthwave" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v8l1u1tz&theme=synthwave&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
