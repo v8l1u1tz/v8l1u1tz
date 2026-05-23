@@ -10,6 +10,16 @@
     />
 </div>
 
+# Hi, I'm Lutz 👾
+
+**Lutreze Jacinto** · Full-stack Software Developer · Manila, PH · she/her
+
+I write code for a living, which is a fancy way of saying I Google things professionally and somehow it works out. By day, I navigate complex codebases with the energy of someone who respects Italians too much to write spaghetti code. By night, I build personal projects with folder structures so organized it's either impressive or concerning - possibly both.
+
+Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about clean architecture, reusable components, and commit messages that actually mean something. My code may not always be perfect, but it will always have a home.
+
+---
+
 ### Languages, Frameworks, Tools and IDE's
 
 ***PS: Some of these tools were learned out of necessity. Some out of curiosity. One out of spite.***
