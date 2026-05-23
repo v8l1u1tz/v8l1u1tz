@@ -18,9 +18,8 @@ I write code for a living, which is a fancy way of saying I Google things profes
 
 Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about clean architecture, reusable components, and commit messages that actually mean something. My code may not always be perfect, but it will always have a home.
 
----
-
 ### Languages, Frameworks, Tools and IDE's
+---
 
 ***PS: Some of these tools were learned out of necessity. Some out of curiosity. One out of spite.***
 
@@ -96,6 +95,7 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
 </div>
 
 ### GitHub Stats 
+---
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v8l1u1tz&theme=synthwave" width="98.5%" height="auto" />
 </div>
@@ -108,6 +108,13 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v8l1u1tz&theme=synthwave&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
+### Proof that I exist
+---
+> *the contribution graph is a mood board. the bright green bursts are called "i did not have a life" and the slightly less bright green is called "i still did not have a life, just less urgently."*
+>
+> *there are no dark patches. i wish i was joking. someone please invite me somewhere.*
+>
+> *the purple dots are the snake having a meal. i too, eat my problems and keep moving.*
 <div align="center">
     <img src="https://raw.githubusercontent.com/v8l1u1tz/v8l1u1tz/output/snake.svg" alt="snakeAnimation" width="100%" height="90%" />
 </div>
