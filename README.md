@@ -107,6 +107,9 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v8l1u1tz&theme=synthwave" width="49%" height="auto" style="display: inline;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v8l1u1tz&theme=synthwave&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=v8l1u1tz&theme=synthwave&hide_border=true" width="98.5%" height="auto" />
+</div>
 
 ### Proof that I exist
 ---
