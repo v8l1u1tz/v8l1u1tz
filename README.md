@@ -62,8 +62,6 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
     <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" height="45" alt="wsl logo" title="WSL"/>
     <img width="10" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=lightroom" height="45" alt="lightroom logo" title="Lightroom"/>
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" title="VS Code" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo" title="Visual Studio" />
@@ -76,6 +74,8 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" title="Linux" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
@@ -86,9 +86,7 @@ Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about 
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" title="MongoDB" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=ps" height="45" alt="photoshop logo" title="Photoshop" />
-    <img width="10" />
-    <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="45" alt="Oracle logo" title="Oracle"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo" title="Vercel"/>
     <img width="10" />
